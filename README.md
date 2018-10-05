@@ -17,16 +17,19 @@ citibank  | Finance | https://jobs.citi.com/search-jobs/clojure/287/1/1 |
 
 Seattle, WA
 
-Company                                                | Sector   | Oppertunities |
--------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------|
-[concur](https://www.concur.com/en-us/careers/meet-us) | Finance  | https://jobs.sap.com/search/?q=Concur&locationsearch=Bellevue&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country= |
+Company                                                | Sector                 | Oppertunities                 | Blog       |
+-------------------------------------------------------|------------------------|-------------------------------|------------|
+[Amperity](https://amperity.com/company/)              | Customer Data Platform | https://amperity.com/careers/ |https://github.com/amperity |
+[concur](https://www.concur.com/en-us/careers/meet-us) | Finance                | https://jobs.sap.com/search/?q=Concur&locationsearch=Bellevue&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country= |      |
+
 
 
 SF, CA
 
 Company   | Sector  | Oppertunities                                     | engineering blog   |
 ----------|---------|---------------------------------------------------|--------------------|
-[LendUp](https://www.lendup.com/about)    | Finance | https://www.lendup.com/careers/positions          | https://www.lendup.com/engineering/ |
+[LendUp](https://www.lendup.com/about)    | Finance | https://www.lendup.com/careers/positions | https://www.lendup.com/engineering/ |
+
 
 
 Berlin, Germany
